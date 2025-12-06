@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --container: 1200px;
+}
+
+.focus-ring:focus {
+  outline: 2px solid rgba(59, 130, 246, 0.25);
+  outline-offset: 2px;
+}
