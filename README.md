@@ -4,6 +4,15 @@ A complete full‑stack project built using **Node.js (Express)**, **MySQL**, **
 
 ---
 
+# 👤 Admin Credentials
+
+```
+Email: admin@example.com
+Password: admin123
+```
+
+---
+
 ## 🚀 Features
 
 ### **Frontend (React + Vite + TailwindCSS)**
@@ -286,12 +295,5 @@ DB_NAME=product_showcase
 ```
 
 ---
-
-# 👤 Admin Credentials
-
-```
-Email: admin@example.com
-Password: admin123
-```
 
 ---
